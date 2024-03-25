@@ -5,4 +5,9 @@ Soy Franklin Sanchez, me gusta jugar fútbol y en muchos casos escuchar música 
 
 ## Contac me
  Ubicame en mis redes sociales como ....
+
+ ## technologies
+ -HTL
+ -CSS
+ -JS
  
